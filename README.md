@@ -22,6 +22,8 @@ Possuo habilidade criativa em Desenho Tradicional (pela escola Kinoene Arts) e, 
 
 ## Minha Equipe de API (E Outros Projetos)
 
+<img src="[./docs/Sprint-4/mvp-sprint-4.gif](https://github.com/Byte-Team-Fatec/Byte_Team-API-1-/blob/main/Front-end/c%C3%B3digo/tela%20inicial/imagens/image%203.png?raw=true)">
+
 |Função|Nome|LinkedIn|GitHub|
 |------|----|--------|------|
 | Product Owner | Lucas Guerra | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcosoliveiraa) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoM-py) |
