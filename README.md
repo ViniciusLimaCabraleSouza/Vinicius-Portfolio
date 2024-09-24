@@ -33,6 +33,6 @@ Aqui serão colocados os modelos de Websites propostos em aulas, atividades ou p
     
 ## Links Pessoais
 
-| Nome | Turma | GitHub | LinkedIn |
-|------|-------|-------------------|
-| Vinicius Lima Cabral e Souza | [GitHub] (https://github.com/ViniciusLimaCabraleSouza) | [LinkedIn] (https://www.linkedin.com/in/vinicius-lima-cabral-e-souza-7794b3287/)
+|Nome|Turma|GitHub|LinkedIn|
+|----|------|------|--------|
+| Vinicius Lima Cabral e Souza | 1°DSM | [GitHub](https://github.com/ViniciusLimaCabraleSouza) | [LinkedIn](https://www.linkedin.com/in/vinicius-lima-cabral-e-souza-7794b3287/) |
