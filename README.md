@@ -42,4 +42,4 @@ Aqui serão colocados os modelos de Websites propostos em aulas, atividades ou p
 
 |Nome|Turma|GitHub|LinkedIn|
 |----|------|------|--------|
-| Vinicius Lima Cabral e Souza | 1°DSM | [GitHub](https://github.com/ViniciusLimaCabraleSouza) | [LinkedIn](https://www.linkedin.com/in/vinicius-lima-cabral-e-souza-7794b3287/) |
+| Vinicius Lima Cabral e Souza | 1°DSM | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ViniciusLimaCabraleSouza) | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-lima-cabral-e-souza-7794b3287/) |
