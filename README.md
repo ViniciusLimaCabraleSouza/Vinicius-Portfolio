@@ -22,7 +22,7 @@ Possuo habilidade criativa em Desenho Tradicional (pela escola Kinoene Arts) e, 
 
 ## Minha Equipe de API (E Outros Projetos)
 
-<img src="[./docs/Sprint-4/mvp-sprint-4.gif](https://github.com/Byte-Team-Fatec/Byte_Team-API-1-/blob/main/Front-end/c%C3%B3digo/tela%20inicial/imagens/image%203.png?raw=true)">
+<img src="https://raw.githubusercontent.com/Byte-Team-Fatec/Byte_Team-API-1-/refs/heads/main/Front-end/c%C3%B3digo/tela%20inicial/imagens/image%203.png">
 
 |Função|Nome|LinkedIn|GitHub|
 |------|----|--------|------|
