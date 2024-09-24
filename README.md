@@ -1,7 +1,6 @@
-# FATEC Profº Jessen Vidal - São José dos Campos - 1º Semestre DSM
-# devweb
+# Portfólio de Vinicius Lima C. e Souza (FATEC - SJC - 1º Semestre DSM)
 
-Este repositório serve para o propósito de organizar entregas da matéria de Desenvolvimento Web e Design Digital. Aqui haverá testes e exercícios propostos nas aulas do Prof. Jean.
+Este repositório serve para o propósito de organizar meus projetos pessoais, bem como as atividades propostas em sala de aula pelos professores. Projetos Integradores, atividades avaliativas e projetos variados serão aqui depositados.
 
 ## Índice
 
@@ -20,19 +19,20 @@ Possuo habilidade criativa em Desenho Tradicional (pela escola Kinoene Arts) e, 
 
 <span id="ativs">
     
-## Atividades (Exercícios)
+## Atividades (Exercícios Para Treino)
 
-Aqui serão colocados os exercícios feitos em aula. Afinal, o que precede a ação é sempre a preparação; quanto mais preparada a pessoa se encontra, mais chances de sair bem sucedida e entregar um bom resultado no mundo profissional.
+Aqui serão colocados os exercícios feitos em aula. Afinal, o que precede a ação é sempre a preparação; quanto mais encontra-se preparado, mais chances de sair bem sucedida e entregar um bom resultado no mundo profissional.
 
 <span id="model">
     
-## Modelos de Websites
+## Modelos Variados de Websites
 
-Aqui serão colocados os modelos de Websites propostos em aulas e/ou projetos pessoais.
+Aqui serão colocados os modelos de Websites propostos em aulas, atividades ou projetos pessoais.
 
 <span id="links">
     
 ## Links Pessoais
 
-| Nome | Turma | Links Pessoais
-| Vinicius Lima Cabral e Souza | [Github] ()
+| Nome | Turma | GitHub | LinkedIn |
+|------|-------|-------------------|
+| Vinicius Lima Cabral e Souza | [GitHub] (https://github.com/ViniciusLimaCabraleSouza) | [LinkedIn] (https://www.linkedin.com/in/vinicius-lima-cabral-e-souza-7794b3287/)
