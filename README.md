@@ -50,8 +50,8 @@ Este repositório serve para o propósito de organizar meus projetos pessoais, b
 
 Aqui serão colocados os exercícios feitos em aula. Afinal, o que precede a ação é sempre a preparação; quanto mais encontra-se preparado, mais chances de sair bem sucedida e entregar um bom resultado no mundo profissional.
 
-* [Exercícios-Notion → ]![Static Badge](https://img.shields.io/badge/Exercicios-Notion)(https://github.com/ViniciusLimaCabraleSouza/Vinicius-Portfolio/tree/main/DevWeb/Notion%20-%20Exerc%C3%ADcios)
-* [Desafio-01 → ]![Static Badge](https://img.shields.io/badge/Desafio-01)(https://github.com/ViniciusLimaCabraleSouza/Vinicius-Portfolio/tree/main/DevWeb/Desafio01)
+* [![Static Badge](https://img.shields.io/badge/Exercicios-Notion)(https://github.com/ViniciusLimaCabraleSouza/Vinicius-Portfolio/tree/main/DevWeb/Notion%20-%20Exerc%C3%ADcios)]
+* [![Static Badge](https://img.shields.io/badge/Desafio-01)(https://github.com/ViniciusLimaCabraleSouza/Vinicius-Portfolio/tree/main/DevWeb/Desafio01)]
 
 <span id="model">
     
