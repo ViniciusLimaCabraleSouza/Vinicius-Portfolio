@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    margin: 100;
+    padding: 100;
+    background-color: rgb(165, 128, 169);
+}
+
+.colunas{ /*chamei o container de "colunas"*/
+    display: grid;
+    grid-template-columns: 70% 30%; /*define a largura das colunas*/
+    height: 800px; /* preenche toda a altura*/
+}
+
+.coluna1{
+    background-color: #7dcd80;
+    color: white;
+    padding: 20px;
+}
+
+.coluna2{
+    background-color: #589ed6;
+    color: white;
+    padding: 20px;
+}

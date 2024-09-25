@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(196, 252, 233);
+}
+header{
+    background-color: cadetblue;
+    color: white;
+    text-align: center;
+}
+
+.cabeçalho{
+    display: grid;
+    height: 100px;
+    width: 20px;
+    background-color: blueviolet;
+}
+.colunas{ /*chamei o container de "colunas"*/
+    display: grid;
+    grid-template-columns: 50% 50%; /*define a largura das colunas*/
+    height: 800px; /* preenche toda a altura*/
+    padding: 20px;
+}
+.coluna1{
+    display: grid;
+    background-color: rgb(157, 225, 203);
+    color: white;
+    height: 800px;
+}
+.coluna2{
+    display: grid;
+    background-color: rgb(217, 137, 137);
+    color: white;
+    height: 800px;
+}

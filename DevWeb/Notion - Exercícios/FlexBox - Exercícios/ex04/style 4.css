@@ -1,0 +1,28 @@
+
+.pricing {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.plan {
+    background-color: lightgray;
+    padding: 20px;
+    text-align: center;
+    flex: 1;
+    min-width: 200px;
+}
+.basic {
+    background-color: lightblue;
+}
+.standard {
+    background-color: lightgreen;
+}
+.premium {
+    background-color: lightcoral;
+}
+@media (max-width: 600px) {
+    .pricing {
+        flex-direction: column;
+    }
+}
