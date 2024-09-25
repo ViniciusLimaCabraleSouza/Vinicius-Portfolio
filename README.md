@@ -2,7 +2,7 @@
 
 Este repositório serve para o propósito de organizar meus projetos pessoais, bem como as atividades propostas em sala de aula pelos professores. Projetos Integradores, atividades avaliativas e projetos variados serão aqui depositados.
 
-## Índice
+<h1 align="center">✥ Índice ✥</h1>
 
 <p style="text-align: center">
     <a href="#about">Sobre Mim</a> |
@@ -12,9 +12,8 @@ Este repositório serve para o propósito de organizar meus projetos pessoais, b
     <a href="#links">Links Pessoais</a> |
 </p>
 <span id="about">
-  
-## Sobre Mim
-
+    
+<h1 align="center">✥ Sobre Mim ✥</h1>
 * <b>Quem Sou</b><br>
     Meu nome é Vinicius Lima Cabral e Souza, tenho 21 anos. Sou estudante do Curso Superior de Tecnologia em Desenvolvimento de Software Multiplataforma (DSM) pela Fatec São José dos Campos - Prof. Jessen Vidal, e Análise e Desenvolvimento de Sistemas (ADS) pela UNIFEOB (Univap).
   
@@ -29,9 +28,10 @@ Este repositório serve para o propósito de organizar meus projetos pessoais, b
 
 <span id="equipe">
 
-## Minha Equipe de API (E Outros Projetos)
-
-<img src="https://raw.githubusercontent.com/Byte-Team-Fatec/Byte_Team-API-1-/refs/heads/main/Front-end/c%C3%B3digo/tela%20inicial/imagens/image%203.png" align="center">
+<h1 align="center">✥ Minha Equipe de API (E Outros Projetos) ✥</h1>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Byte-Team-Fatec/Byte_Team-API-1-/refs/heads/main/Front-end/c%C3%B3digo/tela%20inicial/imagens/image%203.png" alt="byte team">
+</p>
 
 |Função|Nome|LinkedIn|GitHub|
 |------|----|--------|------|
@@ -46,22 +46,23 @@ Este repositório serve para o propósito de organizar meus projetos pessoais, b
 
 <span id="ativs">
     
-## Atividades (Exercícios Para Treino)
+<h1 align="center">✥ Atividades (Exercícios Para Treino) ✥</h1>
 
 Aqui serão colocados os exercícios feitos em aula. Afinal, o que precede a ação é sempre a preparação; quanto mais encontra-se preparado, mais chances de sair bem sucedida e entregar um bom resultado no mundo profissional.
 
-* [![Static Badge](https://img.shields.io/badge/Exercicios-Notion)(https://github.com/ViniciusLimaCabraleSouza/Vinicius-Portfolio/tree/main/DevWeb/Notion%20-%20Exerc%C3%ADcios)]
-* [![Static Badge](https://img.shields.io/badge/Desafio-01)(https://github.com/ViniciusLimaCabraleSouza/Vinicius-Portfolio/tree/main/DevWeb/Desafio01)]
+* [![Static Badge](https://img.shields.io/badge/Exercicios-Notion)](https://github.com/ViniciusLimaCabraleSouza/Vinicius-Portfolio/tree/main/DevWeb/Notion%20-%20Exerc%C3%ADcios)
+
+* [![Static Badge](https://img.shields.io/badge/Desafio-01)](https://github.com/ViniciusLimaCabraleSouza/Vinicius-Portfolio/tree/main/DevWeb/Desafio01)
 
 <span id="model">
     
-## Modelos Variados de Websites
+<h1 align="center">✥ Modelos Variados de Websites ✥</h1>
 
 Aqui serão colocados os modelos de Websites propostos em aulas, atividades ou projetos pessoais.
 
 <span id="links">
     
-## Links Pessoais
+<h1 align="center">✥ Links Pessoais ✥</h1>
 
 |Nome|Turma|GitHub|LinkedIn|
 |----|------|------|--------|
