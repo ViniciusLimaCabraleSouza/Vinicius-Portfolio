@@ -1,7 +1,9 @@
-# Portfólio de Vinicius Lima C. e Souza (FATEC - SJC - 1º Semestre DSM)
+<h1 align="center">Portfólio de Vinicius Lima C. e Souza<br>(FATEC - SJC - 1º Semestre DSM)</h1>
 
 Este repositório serve para o propósito de organizar meus projetos pessoais, bem como as atividades propostas em sala de aula pelos professores. Projetos Integradores, atividades avaliativas e projetos variados serão aqui depositados.
 
+<span id="indice">
+    
 <h1 align="center">✥ Índice ✥</h1>
 
 <p style="text-align: center">
@@ -50,9 +52,9 @@ Este repositório serve para o propósito de organizar meus projetos pessoais, b
 
 Aqui serão colocados os exercícios feitos em aula. Afinal, o que precede a ação é sempre a preparação; quanto mais encontra-se preparado, mais chances de sair bem sucedida e entregar um bom resultado no mundo profissional.
 
-* [![Static Badge](https://img.shields.io/badge/Exercicios-Notion)](https://github.com/ViniciusLimaCabraleSouza/Vinicius-Portfolio/tree/main/DevWeb/Notion%20-%20Exerc%C3%ADcios)
+[![Static Badge](https://img.shields.io/badge/Exercicios-Notion?style=flat-square&labelColor=%235DE2E7&color=%234A45AC)](https://github.com/ViniciusLimaCabraleSouza/Vinicius-Portfolio/tree/main/DevWeb/Notion%20-%20Exerc%C3%ADcios)
 
-* [![Static Badge](https://img.shields.io/badge/Desafio-01)](https://github.com/ViniciusLimaCabraleSouza/Vinicius-Portfolio/tree/main/DevWeb/Desafio01)
+[![Static Badge](https://img.shields.io/badge/Desafio-01?style=flat-square&labelColor=%235DE2E7&color=%234A45AC)](https://github.com/ViniciusLimaCabraleSouza/Vinicius-Portfolio/tree/main/DevWeb/Desafio01)
 
 <span id="model">
     
@@ -67,3 +69,8 @@ Aqui serão colocados os modelos de Websites propostos em aulas, atividades ou p
 |Nome|Turma|GitHub|LinkedIn|
 |----|------|------|--------|
 | Vinicius Lima Cabral e Souza | 1°DSM | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ViniciusLimaCabraleSouza) | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-lima-cabral-e-souza-7794b3287/) |
+
+##
+
+<a href="#indice">![Static Badge](https://img.shields.io/badge/Voltar_ao-Topo-4A45AC?style=flat-square&labelColor=%234A45AC&color=%234A45AC)
+</a>
