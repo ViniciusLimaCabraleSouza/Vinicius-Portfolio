@@ -16,6 +16,7 @@ Este repositório serve para o propósito de organizar meus projetos pessoais, b
 <span id="about">
     
 <h1 align="center">✥ Sobre Mim ✥</h1>
+
 * <b>Quem Sou</b><br>
     Meu nome é Vinicius Lima Cabral e Souza, tenho 21 anos. Sou estudante do Curso Superior de Tecnologia em Desenvolvimento de Software Multiplataforma (DSM) pela Fatec São José dos Campos - Prof. Jessen Vidal, e Análise e Desenvolvimento de Sistemas (ADS) pela UNIFEOB (Univap).
   
