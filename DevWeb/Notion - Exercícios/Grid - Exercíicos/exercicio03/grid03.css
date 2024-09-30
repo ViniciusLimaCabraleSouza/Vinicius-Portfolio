@@ -1,9 +1,10 @@
 * {
-    box-sizing: border-box;
+    box-sizing: content-box;
     margin: 0;
-    padding: 0;
+    padding: 20px;
 }
 body{
+    text-align: center;
     margin: 0;
     padding: 0;
     background-color: rgb(196, 252, 233);
@@ -14,17 +15,16 @@ footer{
     text-align: center;
 }
 
+.colunas{ /*chamei o container de "colunas"*/
+    display: grid;
+    grid-template-columns: auto auto auto; /*define a largura das colunas*/
+    height: 100%; /* preenche toda a altura*/
+    grid-area: body;
+}
 .rodapé{
     display: grid;
     height: 100px;
-    width: 20px;
-    background-color: blueviolet;
-}
-.colunas{ /*chamei o container de "colunas"*/
-    display: grid;
-    grid-template-columns: fr fr fr; /*define a largura das colunas*/
-    height: 800px; /* preenche toda a altura*/
-    padding: 20px;
+    grid-area: footer;
 }
 .coluna1{
     display: grid;
