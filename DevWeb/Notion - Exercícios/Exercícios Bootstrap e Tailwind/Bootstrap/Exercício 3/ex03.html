@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulário de Contato</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    .needs-validation .form-control:invalid {
+      border-color: #dc3545;
+    }
+  </style>
+</head>
+<body class="bg-light">
+  <div class="container my-5">
+    <h2 class="text-center text-gray-800 mb-4">Formulário de Contato</h2>
+    <form class="needs-validation" novalidate>
+      <!-- Nome -->
+      <div class="mb-3">
+        <label for="nome" class="form-label">Nome</label>
+        <input type="text" class="form-control" id="nome" required>
+        <div class="invalid-feedback">Por favor, insira seu nome.</div>
+      </div>
+
+      <!-- Email -->
+      <div class="mb-3">
+        <label for="email" class="form-label">Email</label>
+        <input type="email" class="form-control" id="email" required>
+        <div class="invalid-feedback">Por favor, insira um endereço de email válido.</div>
+      </div>
+
+      <!-- Assunto -->
+      <div class="mb-3">
+        <label for="assunto" class="form-label">Assunto</label>
+        <input type="text" class="form-control" id="assunto" required>
+        <div class="invalid-feedback">Por favor, insira o assunto da mensagem.</div>
+      </div>
+
+      <!-- Mensagem -->
+      <div class="mb-3">
+        <label for="mensagem" class="form-label">Mensagem</label>
+        <textarea class="form-control" id="mensagem" rows="5" required></textarea>
+        <div class="invalid-feedback">Por favor, insira sua mensagem.</div>
+      </div>
+
+      <!-- Botão de envio -->
+      <button type="submit" class="btn btn-primary">Enviar</button>
+    </form>
+  </div>
+
+  <script>
+    // JavaScript para validação do Bootstrap
+    (function () {
+      'use strict';
+      // Fetch all the forms we want to apply custom Bootstrap validation styles to
+      var forms = document.querySelectorAll('.needs-validation');
+      // Loop over them and prevent submission
+      Array.prototype.slice.call(forms).forEach(function (form) {
+        form.addEventListener('submit', function (event) {
+          if (!form.checkValidity()) {
+            event.preventDefault();
+            event.stopPropagation();
+          }
+          form.classList.add('was-validated');
+        }, false);
+      });
+    })();
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

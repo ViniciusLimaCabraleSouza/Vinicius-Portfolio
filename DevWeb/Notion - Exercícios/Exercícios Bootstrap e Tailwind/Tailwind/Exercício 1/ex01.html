@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Layout Tailwind</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+  <div class="flex">
+    <!-- Menu lateral -->
+    <aside class="w-1/4 bg-white p-4">
+      <h5 class="font-bold">Menu Lateral</h5>
+      <ul>
+        <li><a class="block py-2 hover:bg-gray-200" href="#">Item 1</a></li>
+        <li><a class="block py-2 hover:bg-gray-200" href="#">Item 2</a></li>
+        <li><a class="block py-2 hover:bg-gray-200" href="#">Item 3</a></li>
+        <li><a class="block py-2 hover:bg-gray-200" href="#">Item 4</a></li>
+      </ul>
+    </aside>
+
+    <!-- Conteúdo principal -->
+    <main class="w-3/4 p-4">
+      <h2 class="text-xl font-semibold">Conteúdo Principal</h2>
+      <p>Aqui é onde fica o conteúdo principal da página.</p>
+    </main>
+  </div>
+</body>
+</html>
