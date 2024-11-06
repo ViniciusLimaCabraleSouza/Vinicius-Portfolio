@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Atividade02</title>
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <style>
+    /* Estilos */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: rgba(216, 139, 154, 0.361);
+    }
+    .custom-navbar {
+      background-color: #fff42be7;
+      box-shadow: 0 0 8px #5c5c5d99;
+    }
+    .custom-footer {
+      background-color: #fff42be7;
+      color: crimson;
+      padding: 20px 0;
+      box-shadow: 0 0 8px #5c5c5d99;
+    }
+    .carousel-item img {
+      max-height: 500px;
+      object-fit: cover;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Navbar (1) -->
+  <nav class="navbar navbar-expand-lg custom-navbar">
+    <div class="container">
+      <a class="navbar-brand" href="index.html"></a>
+      <img src="img/carousel/Los_Pollos_logo.png" alt="logo" style="width: 80px;" class="rounded-pill">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link active text-danger" aria-current="page" href="index.html">Início</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-danger" href="sobre.html">Sobre Nós</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-danger" href="servicos.html">Cardápio</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-danger" href="contato.html">Contate-nos</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Carousel (2) -->
+  <div id="mainCarousel" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="img/carousel/familia.png" class="d-block w-100" alt="Imagem 1">
+        <div class="carousel-caption d-none d-md-block text-white">
+          <h5><b>Bem-vindo à familia <br> Los Pollos Hermanos!</b></h5>
+          <p><b>Mais que clientes, família!</b></p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img src="img/carousel/festa.png" class="d-block w-100" alt="Imagem 2">
+        <div class="carousel-caption d-none d-md-block text-warning">
+          <h5><b>Frango frito de <br>Alta Qualidade</b></h5>
+          <p><b>Traga os aniversariantes para um descontão!</b></p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img src="img/carousel/restaurante.png" class="d-block w-100" alt="Imagem 3">
+        <div class="carousel-caption d-none d-md-block text-warning">
+          <h5><b>Visite uma de <br>nossas franquias</b></h5>
+          <p><b>Estamos por todo lado!</b></p>
+        </div>
+      </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#mainCarousel" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Anterior</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#mainCarousel" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Próximo</span>
+    </button>
+  </div>
+
+  <!-- Footer (6) -->
+  <footer class="custom-footer text-center">
+    <p>&copy; 2024 Los Pollos Hermanos, US. All rights reserved.</p>
+  </footer>
+
+  <!-- links externos -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
