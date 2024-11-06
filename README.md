@@ -1,4 +1,4 @@
-<h1 align="center">Portfólio de Vinicius Lima C. e Souza<br>(FATEC - SJC - 1º Semestre DSM)</h1>
+<h1 align="center">Atividades de Vinicius Lima C. e Souza<br>(FATEC - SJC - 1º Semestre DSM)</h1>
 
 Este repositório serve para o propósito de organizar meus projetos pessoais, bem como as atividades propostas em sala de aula pelos professores. Projetos Integradores, atividades avaliativas e projetos variados serão aqui depositados.
 
