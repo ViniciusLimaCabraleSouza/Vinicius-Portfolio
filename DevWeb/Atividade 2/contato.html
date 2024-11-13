@@ -45,27 +45,31 @@
       <img src="img/carousel/Los_Pollos_logo.png" alt="logo" style="width: 100px;" class="rounded-pill">
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ms-auto">
-        <li class="nav-item">
-          <a class="nav-link active text-danger" aria-current="page" href="index.html">Início</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link text-danger" href="sobre.html">Sobre Nós</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link text-danger" href="servicos.html">Cardápio</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link text-danger" href="contato.html">Contate-nos</a>
-        </li>
-      </ul>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link active text-danger" aria-current="page" href="index.html">Início</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-danger" href="sobre.html">Sobre Nós</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-danger" href="servicos.html">Cardápio</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-danger" href="contato.html">Contate-nos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-danger" href="listar_contatos.html">Tabela-Contatos</a>
+          </li>
+        </ul>
+      </div>
     </div>
-  </div>
-</nav>
-   <!-- Contato -->
-   <div class="container my-5">
+  </nav>
+
+  <!-- Contato -->
+  <div class="container my-5">
     <div class="row">
       <!-- Informações de Contato -->
       <div class="col-md-6 contact-info text-secondary">
@@ -81,28 +85,46 @@
       <!-- Formulário de Contato -->
       <div class="col-md-6 text-secondary">
         <h2>Fale Com a Gente!</h2>
-        <form>
+        <form action="listar_contatos.html" method="POST">
           <div class="mb-3">
             <label for="name" class="form-label">Nome Completo</label>
-            <input type="text" class="form-control" id="name" placeholder="Nome">
+            <input type="text" class="form-control" id="name" name="nome" placeholder="Nome" required>
           </div>
           <div class="mb-3">
             <label for="email" class="form-label">Email</label>
-            <input type="email" class="form-control" id="email" placeholder="Email">
+            <input type="email" class="form-control" id="email" name="email" placeholder="Email" required>
           </div>
           <div class="mb-3">
             <label for="subject" class="form-label">Assunto</label>
-            <input type="text" class="form-control" id="subject" placeholder="Assunto">
+            <input type="text" class="form-control" id="subject" name="assunto" placeholder="Assunto" required>
           </div>
           <div class="mb-3">
             <label for="message" class="form-label">Mensagem</label>
-            <textarea class="form-control" id="message" rows="4" placeholder="Mensagem"></textarea>
+            <textarea class="form-control" id="message" name="mensagem" rows="4" placeholder="Mensagem" required></textarea>
           </div>
           <button type="submit" class="btn custom-btn">Enviar</button>
         </form>
       </div>
     </div>
   </div>
+
+  <!-- validação do bootstrap -->
+   <script>
+    // Ativa a validação ao enviar o formulário
+  (function () {
+    'use strict'
+    var forms = document.querySelectorAll('.needs-validation')
+    Array.prototype.slice.call(forms).forEach(function (form) {
+      form.addEventListener('submit', function (event) {
+        if (!form.checkValidity()) {
+          event.preventDefault()
+          event.stopPropagation()
+        }
+        form.classList.add('was-validated')
+      }, false)
+    })
+  })()
+   </script>
 
   <!-- Mapa de Localização -->
   <div class="container mb-5 container-fluid bg-warning p-5">
@@ -115,6 +137,7 @@
       </div>
     </div>
   </div>
+
   <!-- Footer (6) -->
   <footer class="custom-footer text-center">
     <p>&copy; 2024 Los Pollos Hermanos, US. All rights reserved.</p>
